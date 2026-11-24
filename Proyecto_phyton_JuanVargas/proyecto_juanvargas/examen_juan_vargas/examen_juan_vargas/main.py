@@ -1,0 +1,1 @@
+from reporte_carga_medica import reporte_carga_medicos
